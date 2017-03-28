@@ -1,0 +1,8 @@
+prefix=/home/dyutimoy/image_handling_ws/devel
+
+Name: circle_det
+Description: Description of circle_det
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dyutimoy/image_handling_ws/devel/lib 
+Requires: cv_bridge image_transport sensor_msgs

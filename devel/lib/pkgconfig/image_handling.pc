@@ -1,0 +1,8 @@
+prefix=/home/dyutimoy/image_handling_ws/devel
+
+Name: image_handling
+Description: Description of image_handling
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dyutimoy/image_handling_ws/devel/lib 
+Requires: 
